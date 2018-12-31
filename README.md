@@ -1,2 +1,7 @@
-# cs6340-semantic-lex
-Old University of Utah CS6340 assignment
+# Semantic Lexer
+
+## To Run:
+
+```sh
+	% python semlex.py <seedsfile> <corpusfile>"
+```
